@@ -1,0 +1,6 @@
+{
+    "packages": ["packages/*", "games/*"],
+    "version": "independent",
+    "npmClient": "yarn",
+    "useWorkspaces": true
+}

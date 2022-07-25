@@ -1,0 +1,12 @@
+{
+    "name": "@games/helpers",
+    "version": "0.1.0",
+    "private": true,
+    "main": "./src/index",
+    "types": "./src/index",
+    "dependencies": {
+        "react": "^18.2.0"
+    },
+    "scripts": {},
+    "devDependencies": {}
+}
